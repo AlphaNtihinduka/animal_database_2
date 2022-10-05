@@ -1,0 +1,6 @@
+require "./animal.rb"
+require "./dog.rb"
+require "./spider.rb"
+require "./owner.rb"
+require "./visit.rb"
+require "./vet.rb"
